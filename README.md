@@ -1,6 +1,8 @@
 # readme-temp
 readme practice
 
+[Preview the site](https://voluble-belekoy-595dd2.netlify.app/)
+
 # HTML BASIC CODE
 
 ---
